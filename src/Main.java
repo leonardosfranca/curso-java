@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        //teclarando um array de notas
+        //Declarando um array de notas
         int[] notas = {8, 5, 10, 7};
 
         //imprimindo as notas
